@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#D45113</color>
+    <!-- color name="colorPrimaryDark">#CC772D</color -->
+    <color name="colorPrimaryDark">#B44510</color>
+    <!-- color name="colorAccent">#E91E63</color --> <!-- PINK -->
+    <!-- color name="colorAccent">#A8C686</color --> <!-- GREEN -->
+    <color name="colorAccent">#C95D63</color> <!-- KIND OF PINK -->
+    <color name="colorWindowBackground">#FFFFFF</color>
+    <color name="button_color">#F08C35</color>
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_white">#FFFFFF</color>
+
+</resources>
